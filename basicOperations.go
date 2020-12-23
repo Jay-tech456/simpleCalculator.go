@@ -1,6 +1,5 @@
 package main
 // Manjesh Prasad
-// CS311 - Programming language concepts
 // December 2, 2020
 
 import (
